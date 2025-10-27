@@ -3,13 +3,13 @@
 Passionate about building functional and visually appealing applications.
 Currently, I focus on full-stack web development and UI/UX design, combining creativity and logic to craft digital experiences
 
-💡 Interested in web technologies, user experience, and software architecture.
+- Interested in web technologies, user experience, and software architecture.
 
-🧠 Constant learner — I enjoy exploring new frameworks and tools to improve my workflow.
+- Constant learner — I enjoy exploring new frameworks and tools to improve my workflow.
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 💻 Languages  
+### Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -22,7 +22,7 @@ Currently, I focus on full-stack web development and UI/UX design, combining cre
 
 ---
 
-### ⚙️ Frameworks & Tools  
+### Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -34,7 +34,7 @@ Currently, I focus on full-stack web development and UI/UX design, combining cre
 
 ---
 
-### 🗄️ Databases  
+### Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
