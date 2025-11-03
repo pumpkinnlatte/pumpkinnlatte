@@ -3,7 +3,7 @@
 Passionate about building functional and visually appealing applications.
 Currently, I focus on full-stack web development and UI/UX design, combining creativity and logic to craft digital experiences
 
-- Interested in web technologies, user experience, and software architecture.
+- Interested in web technologies, and software architecture.
 
 - Constant learner — I enjoy exploring new frameworks and tools to improve my workflow.
 
